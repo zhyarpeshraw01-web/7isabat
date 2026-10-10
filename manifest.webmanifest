@@ -1,0 +1,9 @@
+{
+  "name": "Dinar Flow \u2014 IQD Money Tracker",
+  "short_name": "Dinar Flow",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f0e9",
+  "theme_color": "#172433",
+  "description": "Offline IQD salary and expense tracker for October 2026 through December 2027."
+}
